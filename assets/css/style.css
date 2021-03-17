@@ -1,13 +1,17 @@
+
+/* Universal */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Body */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,16 +45,19 @@ body {
     margin-left: 25px;
 }
 
+/* Links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Paragraphs */
+
 p {
     font-size: 16px;
 }
 
-/* Added background-image: alt(""). Is this preferable to adding Title to the Hero div? */
+/* Hero Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,6 +68,14 @@ p {
     background-position: center;
 }
 
+/* Main Content */
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +84,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .benefits {
@@ -88,6 +97,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Aside Content */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -163,6 +173,7 @@ p {
     color: #ffffff;
 }
 
+/* Images */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -190,6 +201,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer */
 .footer {
     padding: 30px;
     clear: both;
