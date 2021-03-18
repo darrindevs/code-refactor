@@ -1,18 +1,18 @@
 # Code Refactor
 
-## Site Picture
+## Horiseon
 ![Marketers Marketing](/assets/images/Marketers.png)
-
-## Technologies Used
-- HTML - used to create elements on the DOM
-- CSS - styles html elements on page
-- Git - version control system to track changes to source code
-- GitHub - hosts repository that can be deployed to GitHub Pages
 
 ## Summary 
 This project refactors the codebase for the website for Horiseon Social Solution Services, Inc.. The refactored site is optimized for search engines through the application of accessibility standards using semantic HTML elements, accessible alt attributes, sequential heading attributes and a concise, descriptive title.
 
 The stylesheet has been refactored to adhere to the DRY principle (Don't repeat yourself) with the aim of reducing repetitive software patterns through consolidating repeated property/value pairs into classes. The stylesheet has been thoroughly commented to provide the reader with a clear organization of the semantic elements. 
+
+## Technologies Used
+- HTML 🦴
+- CSS 👗
+- Git ☑️
+- GitHub ⛅️
 
 ## Code Snippet
 
