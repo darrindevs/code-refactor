@@ -1,7 +1,7 @@
 # Code Refactor
 
 ## Horiseon
-![Marketers Marketing](/assets/images/Marketers.png)
+![Marketers Marketing](/assets/images/Horiseon-Site.png)
 
 ## Deployed Application
 [Horiseon Marketing Site](https://darrindevs.github.io/code-refactor/)
@@ -9,7 +9,7 @@
 ## Summary 
 This project refactors the codebase for the website for Horiseon Social Solution Services, Inc.. The refactored site is optimized for search engines through the application of accessibility standards using semantic HTML elements, accessible alt attributes, sequential heading attributes and a concise, descriptive title.
 
-The stylesheet has been refactored to adhere to the [DRY principle] (https://www.oreilly.com/library/view/97-things-every/9780596809515/ch30.html) (Don't Repeat Yourself) with the aim of reducing repetitive software patterns through consolidating repeated property/value pairs into classes. The stylesheet has been thoroughly commented to provide the reader with a clear organization of the semantic elements and overview of refactored code. 
+The stylesheet has been refactored to adhere to the [DRY Principle](https://www.oreilly.com/library/view/97-things-every/9780596809515/ch30.html) with the aim of reducing repetitive software patterns through consolidating repeated property/value pairs into classes. The stylesheet has been thoroughly commented to provide the reader with a clear organization of the semantic elements and overview of refactored code. 
 
 ## Technologies Used
 - 🦴 HTML - Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser.
